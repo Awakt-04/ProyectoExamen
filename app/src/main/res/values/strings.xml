@@ -1,0 +1,23 @@
+<resources>
+<!--    Cadenas generales-->
+    <string name="app_name">ProyectoExamen</string>
+    <string name="barra">Crazy Layouts</string>
+<!--    Cadenas utilizadas en los TextView dentro del Table Layout-->
+    <string name="ContenidoImagen">Imagen de tres puntos</string>
+    <string name="producto">Producto</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="jabon">Jabón de manos x 1</string>
+    <string name="preciojabon">$ 2</string>
+    <string name="shampoo">Shampoo Monster x 1</string>
+    <string name="precioshampoo">$ 10</string>
+    <string name="pastas">Pastas Duria x 2</string>
+    <string name="preciopastas">$ 18</string>
+    <string name="detergente">Detergente Limpiadin x 1</string>
+    <string name="preciodetergente">$ 13,4</string>
+    <string name="preciosubtotal">$ 42,4</string>
+    <string name="costo">Costo envío</string>
+    <string name="cupon">Cupón</string>
+    <string name="preciocupon">-$5</string>
+    <string name="total">Total</string>
+    <string name="preciototal">$ 48,4</string>
+</resources>
